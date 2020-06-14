@@ -1,0 +1,2 @@
+clear
+tree -f ../notes
